@@ -15,7 +15,7 @@
     "64": "^0.2.0",
     "ajv": "^6.0.0",
     "appium-chromedriver": "^3.0.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "css-split-webpack-plugin": "^0.2.6",
     "echarts": "^4.2.1",
     "element-ui": "^2.9.1",
